@@ -1,7 +1,7 @@
 ### Hi there 👋
 <P>Hello world</P>
 <dl>
-  <li>>Number 1</li>
+  <li>Number 1</li>
   <li>Number 2</li>
   <li>Number 3</li>
 </dl>
